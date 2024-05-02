@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
   final String descriptionPlace =
-      'Lorem ipsum dolor sit amet consectetur adipiscing elit habitant mattis vestibulum, venenatis pretium aliquam nec erat ligula magna mus leo, sapien montes curae senectus netus ornare rhoncus semper fringilla. Nunc porttitor consequat urna maecenas litora commodo viverra lobortis, erat nisl sociosqu accumsan convallis quis vulputate etiam, mollis dignissim non in blandit aliquam nostra. Fringilla inceptos urna fames parturient quam libero habitant aenean tortor maecenas nullam conubia metus sem, rhoncus gravida phasellus duis etiam vel imperdiet primis enim lacus aliquam sociosqu..';
+      'Lorem ipsum dolor sit amet consectetur adipiscing elit habitant mattis vestibulum, venenatis pretium aliquam nec erat ligula magna mus leo, sapien montes curae senectus netus ornare rhoncus sem6per fringilla. Nunc porttitor consequat urna maecenas litora commodo viverra lobortis, erat nisl sociosqu accumsan convallis quis vulputate etiam, mollis dignissim non in blandit aliquam nostra. Fringilla inceptos urna fames parturient quam libero habitant aenean tortor maecenas nullam conubia metus sem, rhoncus gravida phasellus duis etiam vel imperdiet primis enim lacus aliquam sociosqu..';
 
   @override
   Widget build(BuildContext context) {
